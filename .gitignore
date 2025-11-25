@@ -7,6 +7,9 @@ Thumbs.db
 /build/
 /dist/
 /nbproject/
+.classpath
+.project
+.settings/
 
 # Ignorar arquivos pesados comuns em faculdade (Recomendado)
 *.pdf
@@ -19,3 +22,4 @@ Thumbs.db
 *.iso
 *.mp4
 node_modules/
+#
