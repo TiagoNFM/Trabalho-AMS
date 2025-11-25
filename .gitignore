@@ -1,0 +1,21 @@
+# Ignorar arquivos de sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.class
+/build/
+/dist/
+/nbproject/
+
+# Ignorar arquivos pesados comuns em faculdade (Recomendado)
+*.pdf
+*.pptx
+*.docx
+*.zip
+*.rar
+*.exe
+*.dll
+*.iso
+*.mp4
+node_modules/
